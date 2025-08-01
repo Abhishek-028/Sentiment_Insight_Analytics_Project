@@ -1,8 +1,8 @@
-# Twitter Sentiment Insights
+#  Sentiment Insights Project
 
 ## Project Overview
 
-TwitterSentimentInsights is a comprehensive sentiment analysis project that analyzes tweets to uncover insights about public sentiment. The project involves extracting sentiment from tweets, analyzing entity sentiment, and visualizing various aspects of the dataset using different types of plots.
+Sentiment Insights is a comprehensive sentiment analysis project that analyzes tweets to uncover insights about public sentiment. The project involves extracting sentiment from tweets, analyzing entity sentiment, and visualizing various aspects of the dataset using different types of plots.
 
 ## Features
 
